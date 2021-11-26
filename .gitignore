@@ -1,0 +1,8 @@
+/.idea
+/*.egg-info
+/dist
+/build
+/.pytest_cache
+/.mypy_cache
+/.coverage
+__pycache__
